@@ -5,7 +5,6 @@ function minimum(a,b){
     else {
         return b;
     }
-
 }
 
 function maximum(a,b){
@@ -33,7 +32,6 @@ function reduce(numbers, fn){
         }
         return result;
     }
-
 }
 
 function filter(numbers, fn){
